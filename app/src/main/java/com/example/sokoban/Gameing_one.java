@@ -11,7 +11,7 @@ public class Gameing_one {
     private Bitmap blue_brick,brick,red_box,person,box,food,one;
     int x,y,width,height,offset_x,offset_y;
     int mx=3,my=1;
-    //1墙壁 9蓝色墙壁 2主角 3箱子 5红色箱子 6食物
+    //1墙壁 9蓝色墙壁 2主角 3箱子 5红色箱子 6食物 测试更改
     int map[][]={
             {1,1,1,1,1,1,1,1},
             {1,9,9,1,9,9,9,1},
